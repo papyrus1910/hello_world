@@ -1,2 +1,6 @@
 # hello_world
-just another repository
+hello!
+
+"Scranton" 
+"wHaat?"
+"the electric city!"
